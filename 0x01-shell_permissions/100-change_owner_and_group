@@ -1,1 +1,2 @@
-#!/bin/bashchown vincent:staff *
+#!/bin/bash
+chown vincent:staff *
